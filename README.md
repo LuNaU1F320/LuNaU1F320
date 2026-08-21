@@ -43,9 +43,16 @@ A Unity audio mixer for independently playing and controlling vocal, drum, bass,
 
 ---
 
-## Tech
+## 기술 스택 · Tech Stack
 
-`C#` `Unity` `Unreal Engine` `UGUI` `TextMeshPro` `Audio Systems`
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Gameplay%20Systems-6E56CF?style=flat-square" alt="Gameplay Systems">
+  <img src="https://img.shields.io/badge/Audio%20Systems-EF8354?style=flat-square" alt="Audio Systems">
+  <a href="https://github.com/LuNaU1F320"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
