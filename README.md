@@ -60,6 +60,14 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 `UNREAL ENGINE 5.7` · `C++` · `BLUEPRINT` · `2-PERSON TEAM`
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/LuNaU1F320/AstroRail"><img src="./assets/project-astrorail.png" alt="AstroRail title screen" width="760"></a>
+</p>
+
+<br>
+
 **붕괴: 스타레일의 전투 구조를 UE5로 재구성한 3D 턴제 RPG**
 
 필드 탐색과 전투 진입부터 캐릭터 획득, 파티 편성, 저장까지 하나의 플레이 흐름으로 구현했습니다. 단순한 턴 교대가 아니라 서로 개입하고 영향을 주는 전투 규칙을 독립적인 시스템으로 분리해 연결했습니다.
@@ -91,6 +99,14 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 ### 02 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
 
 `UNITY 2022.3` · `C#` · `SCRIPTABLEOBJECT` · `JSON`
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/LuNaU1F320/PokeRogue"><img src="./assets/project-pokerogue.png" alt="PokeRogue battle screen" width="760"></a>
+</p>
+
+<br>
 
 Unity로 구현한 포켓몬 기반 턴제 로그라이크 RPG입니다. 전투 한 턴의 우선순위부터 상태 이상, 포획·도주, 다단계 성장과 저장까지 하나의 플레이 루프로 연결했습니다.
 
@@ -129,6 +145,14 @@ Unity로 구현한 포켓몬 기반 턴제 로그라이크 RPG입니다. 전투 
 ### 03 / [BandMixer](https://github.com/LuNaU1F320/BandMixer)
 
 `UNITY` · `C#` · `AUDIO SYSTEM`
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="./assets/project-bandmixer.png" alt="BandMixer stem mixer interface" width="560"></a>
+</p>
+
+<br>
 
 보컬·드럼·베이스·기타 스템을 독립적으로 제어하는 음악 세션 믹서입니다.
 
