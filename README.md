@@ -149,7 +149,7 @@ Unity로 구현한 포켓몬 기반 턴제 로그라이크 RPG입니다. 전투 
 <br>
 
 <p align="center">
-  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="./assets/project-bandmixer.png" alt="BandMixer stem mixer interface" width="560"></a>
+  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="./assets/project-bandmixer-thumbnail.png" alt="BandMixer stem mixer interface" width="560"></a>
 </p>
 
 <br>
