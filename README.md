@@ -23,7 +23,7 @@
 [![Email](https://img.shields.io/badge/CONTACT-EA4AAA?style=flat-square&logo=gmail&logoColor=white)](mailto:lunau1f320@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuNaU1F320)
 [![Repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-181717?style=flat-square&logo=github&logoColor=white)](#-public-repositories)
-[![Portfolio](https://img.shields.io/badge/PROJECT_PORTFOLIO-7C3AED?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/3bfdbef4fbe5816c9c7fc8a96979f042?v=d7cdbef4fbe583c4bdd6880ceaaa1e9d)
+[![Portfolio](https://img.shields.io/badge/PROJECT_PORTFOLIO-7C3AED?style=flat-square&logo=notion&logoColor=white)](https://futuristic-capricorn-176.notion.site/Game-Client-Programmer-3c5dbef4fbe581238038cd809ce1646d)
 
 </div>
 
@@ -61,11 +61,11 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 | Project | Period | Stack | Public Repositories |
 |:--|:--|:--|:--|
-| **[AIRE](https://app.notion.com/p/3cedbef4fbe58111a603e2d42c542416)**<br>Unreal 기반 AI·Backend 연동 AX 프로젝트<br>2026 가상융합기술 아카데미 최우수상 | 2026.07–08 | Unreal 5.8 · C++ · Python · TypeScript | [Game Client](https://github.com/AIREProject/AI_RE) · [Server](https://github.com/AIREProject/AIRE_SERVER) · [Discord](https://github.com/AIREProject/AIRE_Discord) · [Web App](https://github.com/AIREProject/AIRE_WebApp) · [Kakao](https://github.com/AIREProject/AIRE_Kakao) |
-| **[MIMI](https://github.com/LuNaU1F320/MIMI)**<br>관객의 모바일 입력을 Unreal 전장으로 연결한 참여형 배틀로얄<br>해커톤 3위 | 2026.06 | Unreal 5.7 · C++ · Blueprint · JavaScript | [Source](https://github.com/LuNaU1F320/MIMI) · [Portfolio](https://app.notion.com/p/3c3dbef4fbe580ef9666da5295424344) |
-| **[AstroRail](https://github.com/LuNaU1F320/AstroRail)**<br>붕괴: 스타레일의 전투 구조를 재구성한 3D 턴제 RPG | 2026.05–06 | Unreal 5.7 · C++ · Blueprint | [Source](https://github.com/LuNaU1F320/AstroRail) · [Portfolio](https://app.notion.com/p/2fddbef4fbe582aabd20814f223d0796) |
-| **[Band Mixer](https://github.com/LuNaU1F320/BandMixer)**<br>음악 세션 음원 분리 재생 프로그램 | 2025.08 | Unity · C# · Audio | [Source](https://github.com/LuNaU1F320/BandMixer) · [Portfolio](https://app.notion.com/p/775dbef4fbe58307a823810e43d8a0d2) |
-| **[PokéRogue 모작](https://github.com/LuNaU1F320/PokeRogue)**<br>Unity로 구현한 턴제 로그라이크 RPG | 2025.02–04 | Unity 2022.3 · C# · ScriptableObject · JSON | [Source](https://github.com/LuNaU1F320/PokeRogue) · [Portfolio](https://app.notion.com/p/13cdbef4fbe58283899e01b6ce40241f) |
+| **[AIRE](https://github.com/AIREProject/AI_RE)**<br>Unreal 기반 AI·Backend 연동 AX 프로젝트<br>2026 가상융합기술 아카데미 최우수상 | 2026.07–08 | Unreal 5.8 · C++ · Python · TypeScript | [Game Client](https://github.com/AIREProject/AI_RE) · [Server](https://github.com/AIREProject/AIRE_SERVER) · [Discord](https://github.com/AIREProject/AIRE_Discord) · [Web App](https://github.com/AIREProject/AIRE_WebApp) · [Kakao](https://github.com/AIREProject/AIRE_Kakao) · [Portfolio](https://futuristic-capricorn-176.notion.site/3cedbef4fbe58111a603e2d42c542416) |
+| **[MIMI](https://github.com/LuNaU1F320/MIMI)**<br>관객의 모바일 입력을 Unreal 전장으로 연결한 참여형 배틀로얄<br>해커톤 3위 | 2026.06 | Unreal 5.7 · C++ · Blueprint · JavaScript | [Source](https://github.com/LuNaU1F320/MIMI) · [Portfolio](https://futuristic-capricorn-176.notion.site/3c3dbef4fbe580ef9666da5295424344) |
+| **[AstroRail](https://github.com/LuNaU1F320/AstroRail)**<br>붕괴: 스타레일의 전투 구조를 재구성한 3D 턴제 RPG | 2026.05–06 | Unreal 5.7 · C++ · Blueprint | [Source](https://github.com/LuNaU1F320/AstroRail) · [Portfolio](https://futuristic-capricorn-176.notion.site/2fddbef4fbe582aabd20814f223d0796) |
+| **[Band Mixer](https://github.com/LuNaU1F320/BandMixer)**<br>음악 세션 음원 분리 재생 프로그램 | 2025.08 | Unity · C# · Audio | [Source](https://github.com/LuNaU1F320/BandMixer) · [Portfolio](https://futuristic-capricorn-176.notion.site/775dbef4fbe58307a823810e43d8a0d2) |
+| **[PokéRogue 모작](https://github.com/LuNaU1F320/PokeRogue)**<br>Unity로 구현한 턴제 로그라이크 RPG | 2025.02–04 | Unity 2022.3 · C# · ScriptableObject · JSON | [Source](https://github.com/LuNaU1F320/PokeRogue) · [Portfolio](https://futuristic-capricorn-176.notion.site/13cdbef4fbe58283899e01b6ce40241f) |
 
 <br>
 
@@ -103,7 +103,7 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 <br>
 
 > **ROLE** — MAKO Gameplay · Unreal 연동 · Backend/DB/LLM · Mobile Web/Discord · 전체 데이터 흐름<br>
-> **TEAM** — 2인 협업 · 2026.07–08 · 2026 가상융합기술 아카데미 전체 2위 최우수상
+> **PROJECT** — 2인 협업 · 2026.07–08 · 2026 가상융합기술 아카데미 전체 2위 최우수상
 
 <br>
 
@@ -114,7 +114,7 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
   <a href="https://github.com/AIREProject/AIRE_Discord"><img src="https://img.shields.io/badge/DISCORD-SOURCE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AIRE Discord source"></a>
   <a href="https://github.com/AIREProject/AIRE_Kakao"><img src="https://img.shields.io/badge/KAKAO-SOURCE-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=191919" alt="AIRE Kakao source"></a>
   <a href="https://youtu.be/3soAd3NUpdI"><img src="https://img.shields.io/badge/WATCH-PROJECT-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AIRE project"></a>
-  <a href="https://app.notion.com/p/3cedbef4fbe58111a603e2d42c542416"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="AIRE portfolio"></a>
+  <a href="https://futuristic-capricorn-176.notion.site/3cedbef4fbe58111a603e2d42c542416"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="AIRE portfolio"></a>
 </p>
 
 <br><br>
@@ -147,14 +147,14 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
 <br>
 
 > **ROLE** — Unreal Battle Royale Gameplay · Host Dashboard · Mobile Web UI<br>
-> **TEAM** — 5인 해커톤 · 2026.06.17–19 · 해커톤 3위
+> **PROJECT** — 5인 해커톤 · 2026.06.17–19 · 해커톤 3위
 
 <br>
 
 <p align="center">
   <a href="https://github.com/LuNaU1F320/MIMI"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="MIMI source"></a>
   <a href="https://youtu.be/EVd6oI0k7bE"><img src="https://img.shields.io/badge/WATCH-PROJECT-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch MIMI project"></a>
-  <a href="https://app.notion.com/p/3c3dbef4fbe580ef9666da5295424344"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="MIMI portfolio"></a>
+  <a href="https://futuristic-capricorn-176.notion.site/3c3dbef4fbe580ef9666da5295424344"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="MIMI portfolio"></a>
 </p>
 
 <br><br>
@@ -187,21 +187,21 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
 <br>
 
 > **ROLE** — 전투 시스템 전반 · 캐릭터/적 데이터 · 파티 · 가챠 · 저장 · 전투 UI<br>
-> **TEAM** — 2인 협업 · 2026.05–06
+> **PROJECT** — 2인 협업 · 2026.05–06
 
 <br>
 
 <p align="center">
   <a href="https://github.com/LuNaU1F320/AstroRail"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="AstroRail source"></a>
   <a href="https://github.com/LuNaU1F320/AstroRail/releases"><img src="https://img.shields.io/badge/DOWNLOAD-PLAY_BUILD-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Download AstroRail"></a>
-  <a href="https://app.notion.com/p/AstroRail-2fddbef4fbe582aabd20814f223d0796"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="AstroRail portfolio"></a>
+  <a href="https://futuristic-capricorn-176.notion.site/2fddbef4fbe582aabd20814f223d0796"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="AstroRail portfolio"></a>
 </p>
 
 <br><br>
 
 ### 04 / [Band Mixer](https://github.com/LuNaU1F320/BandMixer)
 
-`UNITY` · `C#` · `AUDIO SYSTEM`
+`UNITY 2022.3` · `C#` · `AUDIO SYSTEM` · `PERSONAL STUDY`
 
 <br>
 
@@ -211,21 +211,33 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
 
 <br>
 
-보컬·드럼·베이스·기타 스템을 독립적으로 제어하는 음악 세션 믹서입니다.
+**DSP Time으로 네 개의 Stem을 동기화하는 음악 세션 믹서**
 
-- 스템별 볼륨·뮤트와 동기화 재생
-- 루프, 탐색, 재생 속도 제어
-- BPM 기반 메트로놈과 오디오 UI
+보컬·드럼·베이스·기타 음원을 하나의 재생 위치와 속도로 제어하면서, 각 파트의 볼륨과 Mute 상태는 독립적으로 조절할 수 있도록 구현했습니다. 사용자가 폴더를 선택하면 파일 규칙에 따라 음원과 커버를 런타임에 구성합니다.
+
+<br>
+
+- 공통 DSP 기준 시각과 PlayScheduled를 이용한 4개 Stem 동기화
+- BPM 기반 4박 Count-in과 예약 재생 수명주기 제어
+- 폴더·파일명 규칙 기반 AudioClip·Cover 런타임 로딩
+- Seek·Loop·Pause·재생 속도의 공통 상태 적용
+- Pitch Shifter 보정과 Stem별 Volume·Mute 상태 복원
+
+<br>
+
+> **ROLE** — 기획 · Unity 클라이언트 구현<br>
+> **PROJECT** — 개인 학습 프로젝트 · 2025.08.12–16
 
 <br>
 
 <p align="center">
   <a href="https://github.com/LuNaU1F320/BandMixer"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="BandMixer source"></a>
+  <a href="https://futuristic-capricorn-176.notion.site/775dbef4fbe58307a823810e43d8a0d2"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="Band Mixer portfolio"></a>
 </p>
 
 <br><br>
 
-### 05 / [순간을 빛나게](https://app.notion.com/p/142dbef4fbe5839a9f1601099e4cc2f4)
+### 05 / [순간을 빛나게](https://futuristic-capricorn-176.notion.site/142dbef4fbe5839a9f1601099e4cc2f4)
 
 `UNITY 2022.3` · `C#` · `CSV` · `JSON` · `FREELANCE`
 
@@ -252,7 +264,7 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
 <br>
 
 > **ROLE** — UI 레이아웃을 제외한 클라이언트 개발 전반<br>
-> **TEAM** — 외주 프로젝트 · 2인 개발 · 2025.06–08 · 전체 소스 비공개
+> **PROJECT** — 외주 프로젝트 · 2인 개발 · 2025.06–08 · 전체 소스 비공개
 
 <br>
 
@@ -260,7 +272,7 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
   <a href="https://www.youtube.com/watch?v=MT6DTSo0nUQ"><img src="https://img.shields.io/badge/WATCH-PUBLIC_PV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch 순간을 빛나게 public PV"></a>
   <a href="https://tumblbug.com/shine_themoment"><img src="https://img.shields.io/badge/VIEW-SUCCESSFUL_FUNDING-FA6462?style=for-the-badge" alt="View 순간을 빛나게 funding"></a>
   <a href="https://store.onstove.com/ko/games/104618"><img src="https://img.shields.io/badge/VIEW-STOVE_PAGE-FF6B00?style=for-the-badge" alt="View 순간을 빛나게 on STOVE"></a>
-  <a href="https://app.notion.com/p/142dbef4fbe5816c9c7fc8a96979f042"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="순간을 빛나게 portfolio"></a>
+  <a href="https://futuristic-capricorn-176.notion.site/142dbef4fbe5839a9f1601099e4cc2f4"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="순간을 빛나게 portfolio"></a>
 </p>
 
 <br><br>
@@ -277,28 +289,23 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
 
 <br>
 
-Unity로 구현한 포켓몬 기반 턴제 로그라이크 RPG입니다. 전투 한 턴의 우선순위부터 상태 이상, 포획·도주, 다단계 성장과 저장까지 하나의 플레이 루프로 연결했습니다.
+**대규모 데이터와 전투·성장을 연결한 Unity 턴제 로그라이크 RPG**
+
+웹 기반 PokéRogue의 핵심 시스템을 분석하고 Unity 환경에 맞게 재구성한 개인 프로젝트입니다. 전투 한 턴의 우선순위부터 상태 이상, 포획·도주, 다단계 성장과 저장까지 하나의 플레이 루프로 연결했습니다.
 
 <br>
 
-**Combat Systems**
-
-- 턴 우선순위 · 데미지 공식 · 18타입 상성
-- 콜백 기반 상태 이상 · 교체 · 스킬 실행 파이프라인
-
-<br>
-
-**Data & Tools**
-
-- CSV → ScriptableObject 에디터 임포터
-- JSON 스프라이트 애니메이션 · 런타임/원본 데이터 분리
+- 기술 우선도·속도 기반 턴 순서와 데미지 공식·18타입 상성
+- 콜백 기반 상태 이상·교체·스킬 실행 파이프라인
+- 649종 포켓몬과 813개 스킬의 CSV → ScriptableObject 자동화
+- JSON 메타데이터 기반 런타임 스프라이트 애니메이션
+- 포획·도주·파티 편성과 레벨업·기술 학습·진화
+- 파티·개체 상태·재화·스테이지의 JSON 저장과 씬 전환
 
 <br>
 
-**Player Flow**
-
-- 포획 · 도주 · 파티 편성
-- 레벨업 · 기술 학습 · 진화 · 저장 · 씬 전환
+> **ROLE** — 게임 클라이언트 시스템 전반<br>
+> **PROJECT** — 개인 프로젝트 · 2025.02.10–04.20
 
 <br>
 
@@ -306,7 +313,7 @@ Unity로 구현한 포켓몬 기반 턴제 로그라이크 RPG입니다. 전투 
   <a href="https://github.com/LuNaU1F320/PokeRogue"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="PokeRogue source"></a>
   <a href="https://youtu.be/HDGUY87Xfoc"><img src="https://img.shields.io/badge/WATCH-GAMEPLAY-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="PokeRogue gameplay"></a>
   <a href="https://github.com/LuNaU1F320/PokeRogue/releases"><img src="https://img.shields.io/badge/DOWNLOAD-PLAY_BUILD-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Download PokeRogue"></a>
-  <a href="https://app.notion.com/p/Pok-Rogue-13cdbef4fbe58283899e01b6ce40241f"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="PokeRogue portfolio"></a>
+  <a href="https://futuristic-capricorn-176.notion.site/13cdbef4fbe58283899e01b6ce40241f"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="PokeRogue portfolio"></a>
 </p>
 
 <br>
