@@ -81,6 +81,12 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 <br>
 
+<p align="center">
+  <a href="https://youtu.be/3soAd3NUpdI"><img src="./assets/project-aire.jpg" alt="AIRE title art" width="760"></a>
+</p>
+
+<br>
+
 **Unreal Gameplay와 Backend·LLM을 연결한 AI 동료 프로젝트**
 
 게임 안에서는 StateTree와 GAS로 판단·전투·작업을 수행하고, 게임 밖에서는 사용자를 기억하는 AI 동료 **MAKO**를 구현했습니다. Backend와 LLM은 행동 후보를 제안하고, Unreal이 게임 규칙과 최종 상태 변경을 소유하도록 실행 경계를 설계했습니다.
@@ -116,6 +122,12 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 ### 02 / [MIMI](https://github.com/LuNaU1F320/MIMI)
 
 `UNREAL ENGINE 5.7` · `C++` · `BLUEPRINT` · `JAVASCRIPT` · `5-PERSON HACKATHON`
+
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/EVd6oI0k7bE"><img src="./assets/project-mimi.jpg" alt="MIMI audience-controlled battle royale" width="760"></a>
+</p>
 
 <br>
 
@@ -213,7 +225,47 @@ QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적
 
 <br><br>
 
-### 05 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
+### 05 / [순간을 빛나게](https://app.notion.com/p/142dbef4fbe5839a9f1601099e4cc2f4)
+
+`UNITY 2022.3` · `C#` · `CSV` · `JSON` · `FREELANCE`
+
+<br>
+
+<p align="center">
+  <a href="https://tumblbug.com/shine_themoment"><img src="./assets/project-shine-the-moment.jpg" alt="순간을 빛나게 official funding cover" width="560"></a>
+</p>
+
+<br>
+
+**공개 데모와 펀딩으로 이어진 2D 비주얼 노벨 클라이언트 개발**
+
+외주로 의뢰받은 펀딩용 데모를 2인으로 개발했습니다. 협업자가 UI 레이아웃을 담당하고, 저는 대사·연출 데이터 처리부터 입력, 세이브·로드, 설정, 사운드까지 클라이언트 시스템 전반을 구현했습니다.
+
+<br>
+
+- CSV 기반 대사·화자·배경·CG·BGM·SFX·음성 연출 파이프라인
+- 수동 진행·자동·스킵을 분리한 입력 상태 제어
+- 백로그·퀵 세이브/로드·슬롯 저장과 진행 지점 복원
+- Master·BGM·SFX·Voice 음량과 텍스트·자동 진행 설정
+- 타이틀부터 스토리 재생·저장·불러오기까지의 전체 플레이 흐름
+
+<br>
+
+> **ROLE** — UI 레이아웃을 제외한 클라이언트 개발 전반<br>
+> **TEAM** — 외주 프로젝트 · 2인 개발 · 2025.06–08 · 전체 소스 비공개
+
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MT6DTSo0nUQ"><img src="https://img.shields.io/badge/WATCH-PUBLIC_PV-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch 순간을 빛나게 public PV"></a>
+  <a href="https://tumblbug.com/shine_themoment"><img src="https://img.shields.io/badge/VIEW-SUCCESSFUL_FUNDING-FA6462?style=for-the-badge" alt="View 순간을 빛나게 funding"></a>
+  <a href="https://store.onstove.com/ko/games/104618"><img src="https://img.shields.io/badge/VIEW-STOVE_PAGE-FF6B00?style=for-the-badge" alt="View 순간을 빛나게 on STOVE"></a>
+  <a href="https://app.notion.com/p/142dbef4fbe5816c9c7fc8a96979f042"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="순간을 빛나게 portfolio"></a>
+</p>
+
+<br><br>
+
+### 06 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
 
 `UNITY 2022.3` · `C#` · `SCRIPTABLEOBJECT` · `JSON`
 
