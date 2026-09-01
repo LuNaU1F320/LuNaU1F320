@@ -82,7 +82,7 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 <br>
 
 <p align="center">
-  <a href="https://youtu.be/3soAd3NUpdI"><img src="./assets/project-aire.jpg" alt="AIRE title art" width="760"></a>
+  <a href="https://github.com/AIREProject/AI_RE"><img src="./assets/project-aire.jpg" alt="AIRE title art" width="760"></a>
 </p>
 
 <br>
@@ -126,7 +126,7 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 <br>
 
 <p align="center">
-  <a href="https://youtu.be/EVd6oI0k7bE"><img src="./assets/project-mimi.jpg" alt="MIMI audience-controlled battle royale" width="760"></a>
+  <a href="https://github.com/LuNaU1F320/MIMI"><img src="./assets/project-mimi.jpg" alt="MIMI audience-controlled battle royale" width="760"></a>
 </p>
 
 <br>
