@@ -75,7 +75,79 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 ## ✦ Project Deep Dives
 
-### 01 / [AstroRail](https://github.com/LuNaU1F320/AstroRail)
+### 01 / [AIRE](https://github.com/AIREProject/AI_RE)
+
+`UNREAL ENGINE 5.8` · `C++` · `PYTHON` · `TYPESCRIPT` · `2-PERSON TEAM`
+
+<br>
+
+**Unreal Gameplay와 Backend·LLM을 연결한 AI 동료 프로젝트**
+
+게임 안에서는 StateTree와 GAS로 판단·전투·작업을 수행하고, 게임 밖에서는 사용자를 기억하는 AI 동료 **MAKO**를 구현했습니다. Backend와 LLM은 행동 후보를 제안하고, Unreal이 게임 규칙과 최종 상태 변경을 소유하도록 실행 경계를 설계했습니다.
+
+<br>
+
+- StateTree의 행동 판단과 GAS의 비용·쿨다운·피해·회복 실행 분리
+- 데이터 기반 무기·콤보와 Layered Animation, 연속 프레임 근접 판정
+- WorkOrder·Inventory·Equipment·SaveGame의 원자적 상태 변경과 복구
+- LLM 제안을 Unreal의 결정적 규칙으로 재검증하는 Command Gateway
+- Operation ID·State Version·Durable Outbox 기반 외부 작업 동기화
+- Unreal·Mobile Web·Discord의 대화·기억·작업 상태 연속성
+
+<br>
+
+> **ROLE** — MAKO Gameplay · Unreal 연동 · Backend/DB/LLM · Mobile Web/Discord · 전체 데이터 흐름<br>
+> **TEAM** — 2인 협업 · 2026.07–08 · 2026 가상융합기술 아카데미 전체 2위 최우수상
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/AIREProject/AI_RE"><img src="https://img.shields.io/badge/GAME_CLIENT-SOURCE-181717?style=for-the-badge&logo=unrealengine&logoColor=white" alt="AIRE game client source"></a>
+  <a href="https://github.com/AIREProject/AIRE_SERVER"><img src="https://img.shields.io/badge/BACKEND-SOURCE-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="AIRE backend source"></a>
+  <a href="https://github.com/AIREProject/AIRE_WebApp"><img src="https://img.shields.io/badge/WEB_APP-SOURCE-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="AIRE web app source"></a>
+  <a href="https://github.com/AIREProject/AIRE_Discord"><img src="https://img.shields.io/badge/DISCORD-SOURCE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AIRE Discord source"></a>
+  <a href="https://github.com/AIREProject/AIRE_Kakao"><img src="https://img.shields.io/badge/KAKAO-SOURCE-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=191919" alt="AIRE Kakao source"></a>
+  <a href="https://youtu.be/3soAd3NUpdI"><img src="https://img.shields.io/badge/WATCH-PROJECT-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AIRE project"></a>
+  <a href="https://app.notion.com/p/3cedbef4fbe58111a603e2d42c542416"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="AIRE portfolio"></a>
+</p>
+
+<br><br>
+
+### 02 / [MIMI](https://github.com/LuNaU1F320/MIMI)
+
+`UNREAL ENGINE 5.7` · `C++` · `BLUEPRINT` · `JAVASCRIPT` · `5-PERSON HACKATHON`
+
+<br>
+
+**관객의 스마트폰을 Unreal 전장의 컨트롤러로 연결한 참여형 배틀로얄**
+
+QR 또는 URL로 참가한 관객의 모바일 입력을 Unreal 캐릭터에 적용하고, 이동·충돌·전투·안전지대·생존 상태를 실시간으로 계산해 Host와 Mobile 화면으로 되돌려주는 플레이 흐름을 구현했습니다.
+
+<br>
+
+- 모바일 입력을 플레이어·봇 캐릭터에 적용하는 Realtime Input Bridge
+- 안전지대 페이즈·존 데미지·보급품·사망·라운드 초기화
+- 원형 전장 경계에서 접선 이동을 보존하는 위치 제어
+- 현재·다음 안전지대, 플레이어와 보급품을 표시하는 미니맵
+- 축소되는 안전지대를 추적하는 Quarter View 카메라
+- 관객용 Mobile Web Controller와 발표자용 Host Dashboard
+
+<br>
+
+> **ROLE** — Unreal Battle Royale Gameplay · Host Dashboard · Mobile Web UI<br>
+> **TEAM** — 5인 해커톤 · 2026.06.17–19 · 해커톤 3위
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/LuNaU1F320/MIMI"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="MIMI source"></a>
+  <a href="https://youtu.be/EVd6oI0k7bE"><img src="https://img.shields.io/badge/WATCH-PROJECT-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch MIMI project"></a>
+  <a href="https://app.notion.com/p/3c3dbef4fbe580ef9666da5295424344"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="MIMI portfolio"></a>
+</p>
+
+<br><br>
+
+### 03 / [AstroRail](https://github.com/LuNaU1F320/AstroRail)
 
 `UNREAL ENGINE 5.7` · `C++` · `BLUEPRINT` · `2-PERSON TEAM`
 
@@ -115,7 +187,7 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 <br><br>
 
-### 02 / [Band Mixer](https://github.com/LuNaU1F320/BandMixer)
+### 04 / [Band Mixer](https://github.com/LuNaU1F320/BandMixer)
 
 `UNITY` · `C#` · `AUDIO SYSTEM`
 
@@ -141,7 +213,7 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 <br><br>
 
-### 03 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
+### 05 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
 
 `UNITY 2022.3` · `C#` · `SCRIPTABLEOBJECT` · `JSON`
 
