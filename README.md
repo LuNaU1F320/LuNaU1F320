@@ -22,7 +22,8 @@
 
 [![Email](https://img.shields.io/badge/CONTACT-EA4AAA?style=flat-square&logo=gmail&logoColor=white)](mailto:lunau1f320@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuNaU1F320)
-[![Portfolio](https://img.shields.io/badge/PROJECT_PORTFOLIOS-7C3AED?style=flat-square&logo=notion&logoColor=white)](#-featured-projects)
+[![Repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-181717?style=flat-square&logo=github&logoColor=white)](#-public-repositories)
+[![Portfolio](https://img.shields.io/badge/PROJECT_PORTFOLIO-7C3AED?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/3bfdbef4fbe5816c9c7fc8a96979f042?v=d7cdbef4fbe583c4bdd6880ceaaa1e9d)
 
 </div>
 
@@ -54,7 +55,25 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 <br>
 
-## ✦ Featured Projects
+## ✦ Public Repositories
+
+노션 포트폴리오에 정리된 프로젝트 중 소스가 공개된 저장소를 **최근 완료일 순**으로 정리했습니다.
+
+| Project | Period | Stack | Public Repositories |
+|:--|:--|:--|:--|
+| **[AIRE](https://app.notion.com/p/3cedbef4fbe58111a603e2d42c542416)**<br>Unreal 기반 AI·Backend 연동 AX 프로젝트<br>2026 가상융합기술 아카데미 최우수상 | 2026.07–08 | Unreal 5.8 · C++ · Python · TypeScript | [Game Client](https://github.com/AIREProject/AI_RE) · [Server](https://github.com/AIREProject/AIRE_SERVER) · [Discord](https://github.com/AIREProject/AIRE_Discord) · [Web App](https://github.com/AIREProject/AIRE_WebApp) · [Kakao](https://github.com/AIREProject/AIRE_Kakao) |
+| **[MIMI](https://github.com/LuNaU1F320/MIMI)**<br>관객의 모바일 입력을 Unreal 전장으로 연결한 참여형 배틀로얄<br>해커톤 3위 | 2026.06 | Unreal 5.7 · C++ · Blueprint · JavaScript | [Source](https://github.com/LuNaU1F320/MIMI) · [Portfolio](https://app.notion.com/p/3c3dbef4fbe580ef9666da5295424344) |
+| **[AstroRail](https://github.com/LuNaU1F320/AstroRail)**<br>붕괴: 스타레일의 전투 구조를 재구성한 3D 턴제 RPG | 2026.05–06 | Unreal 5.7 · C++ · Blueprint | [Source](https://github.com/LuNaU1F320/AstroRail) · [Portfolio](https://app.notion.com/p/2fddbef4fbe582aabd20814f223d0796) |
+| **[Band Mixer](https://github.com/LuNaU1F320/BandMixer)**<br>음악 세션 음원 분리 재생 프로그램 | 2025.08 | Unity · C# · Audio | [Source](https://github.com/LuNaU1F320/BandMixer) · [Portfolio](https://app.notion.com/p/775dbef4fbe58307a823810e43d8a0d2) |
+| **[PokéRogue 모작](https://github.com/LuNaU1F320/PokeRogue)**<br>Unity로 구현한 턴제 로그라이크 RPG | 2025.02–04 | Unity 2022.3 · C# · ScriptableObject · JSON | [Source](https://github.com/LuNaU1F320/PokeRogue) · [Portfolio](https://app.notion.com/p/13cdbef4fbe58283899e01b6ce40241f) |
+
+<br>
+
+---
+
+<br>
+
+## ✦ Project Deep Dives
 
 ### 01 / [AstroRail](https://github.com/LuNaU1F320/AstroRail)
 
@@ -96,7 +115,33 @@ GAMEPLAY IDEA  →  SYSTEM DESIGN  →  DATA & STATE  →  PLAYER FEEDBACK
 
 <br><br>
 
-### 02 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
+### 02 / [Band Mixer](https://github.com/LuNaU1F320/BandMixer)
+
+`UNITY` · `C#` · `AUDIO SYSTEM`
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="./assets/project-bandmixer-thumbnail.png" alt="BandMixer stem mixer interface" width="560"></a>
+</p>
+
+<br>
+
+보컬·드럼·베이스·기타 스템을 독립적으로 제어하는 음악 세션 믹서입니다.
+
+- 스템별 볼륨·뮤트와 동기화 재생
+- 루프, 탐색, 재생 속도 제어
+- BPM 기반 메트로놈과 오디오 UI
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="BandMixer source"></a>
+</p>
+
+<br><br>
+
+### 03 / [PokeRogue](https://github.com/LuNaU1F320/PokeRogue)
 
 `UNITY 2022.3` · `C#` · `SCRIPTABLEOBJECT` · `JSON`
 
@@ -138,32 +183,6 @@ Unity로 구현한 포켓몬 기반 턴제 로그라이크 RPG입니다. 전투 
   <a href="https://youtu.be/HDGUY87Xfoc"><img src="https://img.shields.io/badge/WATCH-GAMEPLAY-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="PokeRogue gameplay"></a>
   <a href="https://github.com/LuNaU1F320/PokeRogue/releases"><img src="https://img.shields.io/badge/DOWNLOAD-PLAY_BUILD-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Download PokeRogue"></a>
   <a href="https://app.notion.com/p/Pok-Rogue-13cdbef4fbe58283899e01b6ce40241f"><img src="https://img.shields.io/badge/READ-DEEP_DIVE-8B5CF6?style=for-the-badge&logo=notion&logoColor=white" alt="PokeRogue portfolio"></a>
-</p>
-
-<br><br>
-
-### 03 / [BandMixer](https://github.com/LuNaU1F320/BandMixer)
-
-`UNITY` · `C#` · `AUDIO SYSTEM`
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="./assets/project-bandmixer-thumbnail.png" alt="BandMixer stem mixer interface" width="560"></a>
-</p>
-
-<br>
-
-보컬·드럼·베이스·기타 스템을 독립적으로 제어하는 음악 세션 믹서입니다.
-
-- 스템별 볼륨·뮤트와 동기화 재생
-- 루프, 탐색, 재생 속도 제어
-- BPM 기반 메트로놈과 오디오 UI
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/LuNaU1F320/BandMixer"><img src="https://img.shields.io/badge/VIEW-SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="BandMixer source"></a>
 </p>
 
 <br>
